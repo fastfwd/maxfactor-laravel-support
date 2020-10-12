@@ -1,6 +1,6 @@
 {
     "name": "maxfactor/support",
-    "description": "Support and helpers for Laravel PHP based projects",
+    "description": "Re-hosted:fastfwd, Support and helpers for Laravel PHP based projects",
     "type": "library",
     "license": "MIT",
     "authors": [
