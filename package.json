@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dewsign/maxfactor-laravel-support.git"
+    "url": "git+https://github.com/fastfwd/maxfactor-laravel-support.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dewsign/maxfactor-laravel-support/issues"
+    "url": "https://github.com/fastfwd/maxfactor-laravel-support.git"
   },
-  "homepage": "https://github.com/dewsign/maxfactor-laravel-support#readme",
+  "homepage": "https://github.com/fastfwd/maxfactor-laravel-support.git#readme",
   "devDependencies": {
     "husky": "^0.14.3",
     "lint-staged": "^6.0.0",
