@@ -10,6 +10,13 @@
             "homepage": "https://dewsign.co.uk"
         }
     ],
+    "repositories": [
+        {
+            "name": "spatie/laravel-view-components",
+            "type": "vcs",
+            "url": "https://github.com/fastfwd/laravel-view-components.git"
+        }
+    ],
     "require": {
         "laravel/framework": ">=5.5",
         "symfony/intl": "^4.0",
