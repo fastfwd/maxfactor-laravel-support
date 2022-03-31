@@ -15,6 +15,11 @@
             "name": "spatie/laravel-view-components",
             "type": "vcs",
             "url": "https://github.com/fastfwd/laravel-view-components.git"
+        },
+        {
+            "name": "laravelium/sitemap",
+            "type": "vcs",
+            "url": "https://github.com/fastfwd/laravel-sitemap.git"
         }
     ],
     "require": {
@@ -22,7 +27,7 @@
         "symfony/intl": "^4.0",
         "dereuromark/media-embed": "^0.4.1",
         "spatie/laravel-view-components": "dev-master",
-        "laravelium/sitemap": "^2.0|^3.0|^6.0|^7.0|^8.0",
+        "laravelium/sitemap": "dev-master",
         "dannyvankooten/laravel-vat": "^2.0.4"
     },
     "autoload": {
