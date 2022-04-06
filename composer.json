@@ -20,6 +20,11 @@
             "name": "laravelium/sitemap",
             "type": "vcs",
             "url": "https://github.com/fastfwd/laravel-sitemap.git"
+        },
+        {
+            "name": "dannyvankooten/laravel-vat",
+            "type": "vcs",
+            "url": "https://github.com/fastfwd/laravel-vat.git"
         }
     ],
     "require": {
@@ -28,7 +33,7 @@
         "dereuromark/media-embed": "^0.4.1",
         "spatie/laravel-view-components": "dev-master",
         "laravelium/sitemap": "dev-master",
-        "dannyvankooten/laravel-vat": "^2.0.4"
+        "dannyvankooten/laravel-vat": "dev-master"
     },
     "autoload": {
         "psr-4": {
