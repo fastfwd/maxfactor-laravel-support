@@ -25,9 +25,7 @@ class CanonicalHeader
             return $response;
         }
 
-        if (!in_array(gettype($original), ['string', 'object']) 
-            || !method_exists($original, 'getData')
-        ) {
+        if (!method_exists($original, 'getData')) {
             return $response;
         }
 
